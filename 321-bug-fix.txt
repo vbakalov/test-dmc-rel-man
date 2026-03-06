@@ -1,1 +1,3 @@
 some bug fix
+
+hotfix for #2
